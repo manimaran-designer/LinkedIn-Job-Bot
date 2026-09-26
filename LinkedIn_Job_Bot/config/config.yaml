@@ -1,0 +1,17 @@
+interested_roles:
+  - "Software Engineer"
+  - "Data Scientist"
+need_company_research: true
+prepare_mock_questions: true
+auto_apply: false
+modify_resume: true
+skill_threshold: 70
+search_keywords:
+  - "Python"
+  - "Machine Learning"
+  - "LangChain"
+location_filter: "Remote"
+salary_min: 100000
+blacklist_companies:
+  - "UnwantedCorp"
+  - "SpamCo"

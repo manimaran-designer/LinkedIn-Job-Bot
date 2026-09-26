@@ -1,0 +1,13 @@
+# Dummy Resume Content
+John Doe
+Software Engineer
+Location: Remote
+Experience: 3 years
+
+Skills:
+- Python
+- PyTorch
+- LangChain
+- OpenRouter
+- AWS
+- SQL
